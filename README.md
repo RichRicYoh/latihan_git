@@ -1,3 +1,3 @@
 # latihan_git
 
-Latihan GIT Richard Ricardo
+Latihan GIT Richard Ricardo IF GAB
