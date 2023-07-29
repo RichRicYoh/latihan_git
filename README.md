@@ -1,2 +1,3 @@
 # latihan_git
-Latihan GIT 
+
+Latihan GIT Richard Ricardo
